@@ -5,3 +5,4 @@ Jinja2==2.10.1
 gunicorn==19.9.0
 pandas==1.5.1
 numpy==1.23.4
+MarkupSafe==2.1.1
