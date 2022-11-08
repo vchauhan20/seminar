@@ -1,8 +1,7 @@
-Flask==1.1.1
+Flask==2.2.2
 certifi==2019.11.28
-itsdangerous==1.1.0
-Jinja2==2.10.1
+itsdangerous==2.1.2
+Jinja2==3.1.2
 gunicorn==19.9.0
 pandas==1.5.1
 numpy==1.23.4
-MarkupSafe==2.1.1
