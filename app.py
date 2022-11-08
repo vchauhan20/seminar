@@ -34,5 +34,5 @@ def calculate():
     return render_template('home.html',result_12=result_12 , result_23 = result_13 , result_13 = result_13,result_14 = result_14,\
          result_15 = result_15, result_16 = result_16,result_17 = result_17,result_18 = result_18,result_19 = result_19, result_20 = result_20 )
 
-# if __name__ == '__main__':
-#     app.run(host='0.0.0.0', port=5000, debug=True)
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000, debug=True)
